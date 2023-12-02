@@ -62,9 +62,6 @@ Our journey concluded with the deployment of the Docker container on Azure Conta
 
 ![Azure Container Instance](images/tp_aci.png)
 
----
-![Azure Container Instance](images/tp_fldoc.png)
----
 
 ## Acknowledgment
 
