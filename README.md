@@ -31,12 +31,12 @@ Our journey continued by crafting a robust REST API for our model:
 ### Docker Containerization
 The model was then packaged as a Docker container, enhancing scalability and deployment efficiency:
 
-![Docker Container](images/tp_api_containeur.png)
+![Docker Container](images/tp_api_conteneur.png)
 
 ### Postman Testing
 To ensure functionality, we rigorously tested and consumed our APIs using Postman:
 
-![Postman Testing](images/tp_posstman.png)
+![Postman Testing](images/tp_postman.png)
 
 ---
 
@@ -45,7 +45,7 @@ To ensure functionality, we rigorously tested and consumed our APIs using Postma
 ### Dedicated Application
 We developed a dedicated Flask application to seamlessly consume our API:
 
-![Flask Application](images/tp_flask.png)
+![Flask Application](images/tp_app.png)
 
 ### Containerization with Docker
 The application was packaged into a Docker container, streamlining deployment:
