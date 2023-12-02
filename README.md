@@ -8,11 +8,11 @@ Welcome to the Mid-Term Exam Repository for IBDM Review Sentiment Analysis! This
 
 We kick-started our journey by preprocessing the data and training five distinct ML models. Visualize the process below:
 
-![MLflow Model Training](images/tp_mlf1.png)
+![MLflow Model Training](images/tp_mlf_1.png)
 
 Next, we delved into tracking model performance, versions, and parameters. The pinnacle was achieved by saving the best model in ONNX format and its dedicated preprocessing transformations using the transformers API, stored in pickle format.
 
-![MLflow Model Tracking](images/tp_mlf2.png)
+![MLflow Model Tracking](images/tp_mlf_2.png)
 
 ---
 
