@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olivier/Downloads/mid-term/mlruns/883460154611949370/7ab42339fe114ce6ab7f609d5e24b425/artifacts
+end_time: 1701377819714
+entry_point_name: ''
+experiment_id: '883460154611949370'
+lifecycle_stage: active
+run_id: 7ab42339fe114ce6ab7f609d5e24b425
+run_name: Decision Tree
+run_uuid: 7ab42339fe114ce6ab7f609d5e24b425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701377816865
+status: 3
+tags: []
+user_id: olivier

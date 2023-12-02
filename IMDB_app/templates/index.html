@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <title>IMDB oli</title>
+      <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+   </head>
+
+   <body>
+      <div id="wrap">
+         <h1>Predict IMDB review polarity</h1>
+
+         <section id="furn" class="frame2">
+            <div class="login">
+               <form action="{{ url_for('predict') }}" method="post">
+                  <table class="entryForm">
+                     <tr>
+                        <th>Movie review:</th>
+                        <td><input type="text" name="review" placeholder="Your comment here" required="required" /></td>
+                     </tr>
+                  </table>
+                  <div class="btns">
+                     <button type="reset" class="btn btn-clear">Reset</button>
+                     <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+                  </div>
+               </form>
+            </div>
+         </section>
+
+         <br>
+         <br>
+         <h2>Result</h2>
+         <p>Review: {{ review }}</p>
+         <p>Sentiment: {{ sentiment }}</p>
+      </div>
+   </body>
+</html>

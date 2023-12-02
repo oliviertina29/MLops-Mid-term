@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olivier/Downloads/mid-term/mlruns/0/a640453d499c443c8a880fcd4f4081c4/artifacts
+end_time: 1701077347161
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a640453d499c443c8a880fcd4f4081c4
+run_name: wistful-ox-312
+run_uuid: a640453d499c443c8a880fcd4f4081c4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701077104159
+status: 4
+tags: []
+user_id: olivier

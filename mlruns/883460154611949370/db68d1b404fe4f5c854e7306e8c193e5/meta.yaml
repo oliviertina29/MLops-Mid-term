@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olivier/Downloads/mid-term/mlruns/883460154611949370/db68d1b404fe4f5c854e7306e8c193e5/artifacts
+end_time: 1701377826385
+entry_point_name: ''
+experiment_id: '883460154611949370'
+lifecycle_stage: active
+run_id: db68d1b404fe4f5c854e7306e8c193e5
+run_name: Gradient Boosting
+run_uuid: db68d1b404fe4f5c854e7306e8c193e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701377819716
+status: 3
+tags: []
+user_id: olivier

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olivier/Downloads/mid-term/mlruns/883460154611949370/1afd3efb9d20487991315460da08e366/artifacts
+end_time: 1701377814470
+entry_point_name: ''
+experiment_id: '883460154611949370'
+lifecycle_stage: active
+run_id: 1afd3efb9d20487991315460da08e366
+run_name: SVM
+run_uuid: 1afd3efb9d20487991315460da08e366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701377809330
+status: 3
+tags: []
+user_id: olivier

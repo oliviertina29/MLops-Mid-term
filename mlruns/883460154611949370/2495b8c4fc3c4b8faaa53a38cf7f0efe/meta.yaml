@@ -1,0 +1,15 @@
+artifact_uri: file:///home/olivier/Downloads/mid-term/mlruns/883460154611949370/2495b8c4fc3c4b8faaa53a38cf7f0efe/artifacts
+end_time: 1701377816862
+entry_point_name: ''
+experiment_id: '883460154611949370'
+lifecycle_stage: active
+run_id: 2495b8c4fc3c4b8faaa53a38cf7f0efe
+run_name: KNN
+run_uuid: 2495b8c4fc3c4b8faaa53a38cf7f0efe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701377814472
+status: 3
+tags: []
+user_id: olivier

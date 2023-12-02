@@ -1,0 +1,9 @@
+numpy
+fastapi
+uvicorn
+pydantic
+scikit-learn
+pandas
+onnxruntime
+flask
+
